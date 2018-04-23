@@ -3,4 +3,6 @@
     <string name="start_text">All the functionality for this app is in the app widget.</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
+    <string name="date_count_format">%1$d @%2$s</string>
+    <string name="update_button">Update now</string>
 </resources>
